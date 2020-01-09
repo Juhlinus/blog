@@ -1,6 +1,6 @@
 <?php
 
 return [
-    'baseUrl' => 'https://blog.koukishi.com',
+    'baseUrl' => 'https://linus.juhlin.page',
     'production' => true,
 ];
